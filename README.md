@@ -1,5 +1,5 @@
 # ITHI
-This is the code and data for History does Not Simply Repetition: Integrating Three Types of Historical Information for Context-aware Event Forecasting
+This is the code and data for Mining the Past with Dual Criteria: Integrating Three types of Historical Information for Context-aware Event Forecasting
 
 ## Environment
 
